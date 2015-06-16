@@ -1,0 +1,16 @@
+{
+
+	"name": "carMaintenaceDemo",
+	"version": "1.0.0",
+	"contributors": [
+	  "AlexYu1987 <alexyu87@outlook.coom>",
+	  "SongJiang86"
+	 ],
+	 "reporsitory": {
+	 	"type": "git",
+	 	"url": "https://github.com/songjiang86/carMaintenanceDemo" 
+	 },
+	 "devDependencies": {
+	   	"grunt": ">0.4.1"
+	 }
+}
